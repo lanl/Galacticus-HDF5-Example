@@ -8,4 +8,4 @@ This code assumes knowledge of the R Language. The code is intended to be copied
 
 ## Copyright and License
 
-Los Alamos National Security, LLC owns the copyright for this code, identified internally as LA-CC-17-013. Please see LICENSE for copyright details.
+Triad National Security, LLC owns the copyright for this code, identified internally as LA-CC-17-013. Please see LICENSE for copyright details.
